@@ -1,0 +1,307 @@
+{
+  "project_info": {
+    "project_number": "930511157248",
+    "firebase_url": "https://elwinsh-ca74f.firebaseio.com",
+    "project_id": "elwinsh-ca74f",
+    "storage_bucket": "elwinsh-ca74f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930511157248:android:bad16c353497a6f8",
+        "android_client_info": {
+          "package_name": "com.BeyondTechno.Elwensh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930511157248-n085se0ab8hnt8j7f96h55cjq3ggs8c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.BeyondTechno.Elwensh",
+            "certificate_hash": "8e325a6254162d939f17a516d969224d8fa7d06c"
+          }
+        },
+        {
+          "client_id": "930511157248-g4ihhujhghmtatj6ojkof1cpt6g6jqda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.BeyondTechno.Elwensh",
+            "certificate_hash": "6027dbb525333e5205bff9a7938b0ea975e697e6"
+          }
+        },
+        {
+          "client_id": "930511157248-6erov5qo1s2pcf9k1trk0f35n9t72baj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMwCOthdvkaecY9Zh_HG6f8jfsWqH6v94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930511157248-6erov5qo1s2pcf9k1trk0f35n9t72baj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930511157248-83m95k1gc45mjjjsg0q3peoc7a5hj493.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beyond.ElWinsh"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930511157248:android:f6a4f6a30b7fb739",
+        "android_client_info": {
+          "package_name": "com.ahmed.geo_fencies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930511157248-gkdrka3ius71otnjcnlr1mpf97huhfg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmed.geo_fencies",
+            "certificate_hash": "6027dbb525333e5205bff9a7938b0ea975e697e6"
+          }
+        },
+        {
+          "client_id": "930511157248-6erov5qo1s2pcf9k1trk0f35n9t72baj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMwCOthdvkaecY9Zh_HG6f8jfsWqH6v94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930511157248-6erov5qo1s2pcf9k1trk0f35n9t72baj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930511157248-83m95k1gc45mjjjsg0q3peoc7a5hj493.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beyond.ElWinsh"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930511157248:android:c467dd8d86dfcc24",
+        "android_client_info": {
+          "package_name": "com.beyond_techno.elwensh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930511157248-epq82m2ehvqk75764i9pgib0t1aen25l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beyond_techno.elwensh",
+            "certificate_hash": "8e325a6254162d939f17a516d969224d8fa7d06c"
+          }
+        },
+        {
+          "client_id": "930511157248-89gikj409jqh0uq1muolfm7t0r10a84t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beyond_techno.elwensh",
+            "certificate_hash": "6027dbb525333e5205bff9a7938b0ea975e697e6"
+          }
+        },
+        {
+          "client_id": "930511157248-40mq0btimknbsocoqds451b03qlpgt7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beyond_techno.elwensh",
+            "certificate_hash": "34299e431f2dcb135dcabbf0f647073848dd12de"
+          }
+        },
+        {
+          "client_id": "930511157248-vjg4ea0a08u1pl9au3sqokr66dn1kjhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beyond_techno.elwensh",
+            "certificate_hash": "4f619a7af19d11a7f7f9cdd3ec34a65e257f4ae0"
+          }
+        },
+        {
+          "client_id": "930511157248-6erov5qo1s2pcf9k1trk0f35n9t72baj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMwCOthdvkaecY9Zh_HG6f8jfsWqH6v94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930511157248-6erov5qo1s2pcf9k1trk0f35n9t72baj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930511157248-83m95k1gc45mjjjsg0q3peoc7a5hj493.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beyond.ElWinsh"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930511157248:android:9e21227a9ff0f9c3",
+        "android_client_info": {
+          "package_name": "com.recycler.geofencingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930511157248-3vq8qrnq0mamht7o8agglgqvceg35lf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recycler.geofencingdemo",
+            "certificate_hash": "8e325a6254162d939f17a516d969224d8fa7d06c"
+          }
+        },
+        {
+          "client_id": "930511157248-6erov5qo1s2pcf9k1trk0f35n9t72baj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMwCOthdvkaecY9Zh_HG6f8jfsWqH6v94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930511157248-6erov5qo1s2pcf9k1trk0f35n9t72baj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930511157248-83m95k1gc45mjjjsg0q3peoc7a5hj493.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beyond.ElWinsh"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930511157248:android:23dc53c031adf16a",
+        "android_client_info": {
+          "package_name": "com.sample.geofencing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930511157248-aegp1h4lat6pqhvg4o9cn1454486bbda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sample.geofencing",
+            "certificate_hash": "8e325a6254162d939f17a516d969224d8fa7d06c"
+          }
+        },
+        {
+          "client_id": "930511157248-6erov5qo1s2pcf9k1trk0f35n9t72baj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMwCOthdvkaecY9Zh_HG6f8jfsWqH6v94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930511157248-6erov5qo1s2pcf9k1trk0f35n9t72baj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930511157248-83m95k1gc45mjjjsg0q3peoc7a5hj493.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beyond.ElWinsh"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930511157248:android:febe366de1929171",
+        "android_client_info": {
+          "package_name": "me.shihab.caranimation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930511157248-c5qlcth172qq6girgj3nq9644k76vmp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.shihab.caranimation",
+            "certificate_hash": "6027dbb525333e5205bff9a7938b0ea975e697e6"
+          }
+        },
+        {
+          "client_id": "930511157248-6erov5qo1s2pcf9k1trk0f35n9t72baj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMwCOthdvkaecY9Zh_HG6f8jfsWqH6v94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930511157248-6erov5qo1s2pcf9k1trk0f35n9t72baj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930511157248-83m95k1gc45mjjjsg0q3peoc7a5hj493.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beyond.ElWinsh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
